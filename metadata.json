@@ -1,0 +1,7 @@
+{
+  "name": "Epilog - AI Dermatological Skincare",
+  "description": "A sophisticated AI-driven skincare analysis",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
